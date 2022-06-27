@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+@font-face {
+    src: url("fonts/TheNautigal-Bold.ttf");
+	font-family: "TheNautigal-Bold";
+	}
+
+
+h1 {
+color: #fff;
+position: absolute;
+top: 10px;
+lefr:70px;
+font-family:"ABC";
+font-size: 700%; 
+text-align: center;
+}
+
+
+div.a {
+font-size: 150%;
+color:#8B979B;
+font-family:nos;
+line-height: 20px;
+text-align: justify;
+margin-top: 50px;
+margin-left: 300px;
+margin-right: 300px;
+}
+
+div.b {
+font-family: 'Yellowtail', cursive;
+font-size: 20px;
+color: #252525;
+line-height: 20px;
+text-align: justify;
+margin-top: 30px;
+margin-left: 300px;
+margin-right: 300px;}
+
+.hinh2:hover{opacity:0.6} 
+  
+  html {
+   height: 800px;
+  }
+  
+  .bigbig{
+   display: flex;
+   justify-content: space-around;
+  }
+
+  .card {
+   width: 25%;
+   box-shadow: 30px 20px 10px -10px gray;
+   border-radius: 3.5px;
+   background-color: white;
+   position: relative;
+   font-family: 'Roboto', sans-serif;
+   
+  }
+
+
+  img {
+    border-radius: 5px 5px 0 0;
+   }
+  
+  .container {
+   padding: 10px;
+  }
+  
+  p {
+   position: absolute;
+   top: -10px;
+   right: 10px;
+   color: white;
+   text-shadow: 2px 2px 10px #080206;
+   font-family: 'Merienda One', cursive;
+  } 
+  @font-face{
+src:url (fonts/TheNautigal-Bold.ttf);
+font-family:nos;}
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Yellowtail&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Merienda+One&display=swap" rel="stylesheet">
+</style>
+</head>
+
+
+<body>
+<h1>Must-visit places in Da Nang</h1>
+ <img src="image/danang.jpg" width="1340" height="600">
+<p>
+<div class="a" >
+<br>There’s plenty to do in this gorgeous coastal city. Here are some of its top attractions…</br></div>
+
+<div class="b" style="letter-spacing: 0.5px;" "line-height: 1.5;" "padding-right: 10px;" "padding-left: 10px;">
+<br>Thanks to its central location, vast stretches of beach, and variety of things to do, 
+the coastal city of Da Nang has become something of a tourism hotspot.</br>
+<br>The city, which lies halfway between Hanoi in the North and Ho Chi Minh in the South, is the fifth-largest in Vietnam, and the third most populated. 
+It has an international airport and is a short drive away from Hoi An,
+ making it a great spot for international tourists to stay a few days on a tour of the country. 
+ Locals and ex-pats living in Vietnam also love this destination for its relaxed lifestyle, burgeoning food scene, and exciting nightlife. 
+ Here are just some of the top places to go when you visit Da Nang.</br>
+
+<font color="#9E0B0F"><br><br><br><b>THE BEAUTIFUL BEACHES</b></br></font>
+<br>The best thing about Da Nang is its long and wide beach frontage stretching for kilometers from the Sơn Trà Peninsula to Hội An. 
+All along are white-sand beaches that are quiet for large parts of the day. 
+At the southern end, the main beaches are Non Nuoc, Pham Van Dong, My Khe, and My Anh. 
+Of these, My Khe is the most popular. It gets busy just before sunset when locals flock to its soft sand and clear water to swim or play sports. 
+There are many seafood restaurants and sky bars nearby, so you can go out for a sumptuous dinner or sunset cocktail directly after.</br>
+<br><img class="hinh2" src="image/hinh2.jpg" width="730" height="500">
+
+<font color="#9E0B0F"><br><br><b>SƠN TRÀ PENINSULA</b></br></font>
+<br>When at any of these beaches, look left. You’ll see the beautiful white Lady Buddha statue on the hill. 
+At 67m, the Goddess of Mercy is the tallest Buddha statue in the land. To see it up close, head out to the Linh Ung Pagoda at Sơn Trà Peninsula, 
+a nature reserve about 10km north-east of the city. The Sơn Trà (Monkey) Mountain protects the city from approaching sea storms.
+ A hike or ride to the top will reward you with stunning views. And you may even spot the endangered Pygathrix nemaeus (red-shanked douc) on the way up. 
+ The verdant rainforest surrounding the mountain covers 4,000 hectares, making it a cool, lush alternative to the beach on hot days.</br>
+<br><img class="hinh2" src="image/sontra.jpg" width="730" height="500">
+<br><br><img class="hinh2" src="image/sontra 2.jpg" width="730" height="500"></br>
+
+<font color="#9E0B0F"><br><br><b>BÀ NÀ HILLS</b></br></font>
+<br>For a family-friendly day outing, head to Bà Nà Hills. This hilltop resort in the Trường Sơn Mountains is a 40-minute drive to the west. 
+It was first established as a resort by the French back in 1919. While most of the villas were destroyed during the war, the Debay Wine Cellar still remains. 
+Purchase tickets to enter the hills in advance, to skip the queues. Your entry includes a round-tip on the impressive cable cars going up and down the mountain. Once there, there are lots to see and do at the themed, castle-like Sun World Amusement Park. Walk the flower gardens or French village; visit the Linh Ung temple; or play games at the amusement park.
+Of course, many people go to take pictures of the famed Golden Bridge. 
+This 150-meter-long architectural marvel features two gigantic concrete hands elegantly holding a shiny gold walkway. Impressive (and Insta-worthy) indeed.</br>
+<br><img class="hinh2" src="image/banahills.jpg" width="730" height="500">
+<br><br><img class="hinh2" src="image/banahills 2.jpg" width="730" height="700"></br>
+
+<font color="#9E0B0F"><br><br><b>THE MARBLE MOUNTAINS</b></br></font>
+<br>A shorter drive from the city, going towards Hội An, will take you to the Marble Mountains. 
+These are a cluster of five limestone and marble mountains named after the five elements: Thuy (water); Moc (wood); Kim (metal); Hoa (fire); and Tho (earth). 
+Take the many steps up to get to a series of sacred sites. Think atmospheric grottoes containing beautiful shrines and statues. 
+Of course, the sea views are also spectacular. Once back on ground level, step into one of the souvenir shops below to buy a special keepsake.</br>
+<br><br><b>
+</div>
+</p>
+
+<div class="bigbig">
+
+<div class="card">
+  <img src="picture/hoian.jpg" alt="Hoi An" width="335" height="250">
+  <div class="container">
+    <h4><i>Hoi An is a place where the bold march of progress peters into a leisurely amble. 
+	In this one-time trading port, the Thu Bon River meanders past crumbling shop houses and weathered pagodas, 
+	while sampans come and go from the old ferry quay. Outside the Old Town, two-lane roads slice through waving
+	rice fields and emerge at a frothy coastline. 
+	Stay a couple of days, and Hoi An's easygoing beauty and lantern-lit nights may leave you hopelessly beguiled.</i></h4> 
+   <p>Hoi An</p> 
+  </div>
+</div>
+
+<div class="card">
+  <img src="picture/dalat.jpg" alt="Da Lat" width="335" height="250">
+  <div class="container">
+    <h4><i>Hidden away in the Central Highlands, Da Lat plays the cooler cousin to Vietnam's seaside destinations. 
+	Famous for its countryside charm, Da Lat draws couples, wellness seekers and outdoor enthusiasts. 
+	This mountain resort town was once a summer getaway for the French, who left their mark in the European-inspired architecture and countless lakes. 
+	Da Lat's main lake is the centre of the action, but amazing natural wonders await in the hills all around.</i></h4> 
+    <p>Da Lat</p> 
+  </div>
+</div>
+
+<div class="card">
+  <img src="picture/hue.jpg" alt="Hue" width="335" height="250">
+  <div class="container">
+    <h4><i>Hue is a city chock-full of stories. The Kings of the Nguyen Dynasty built their feudal capital along Hue’s fertile riverbanks and atop its forested
+	hills, but their imperial legacy is just one of many reasons to visit. Hue’s refined cuisine is the stuff of legend, and its leafy streets are line with mossy 
+	pagodas, art déco mansions, and eye-popping markets. Through the whole scene flows the Perfume River, setting a languid pace the rest of the city is 
+	happy to follow.</i></h4> 
+    <p>Hue</p> 
+  </div>
+</div>
+
+
+</div> 
+
+</body>
+</html> 
